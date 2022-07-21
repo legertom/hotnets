@@ -2,10 +2,14 @@
 ## Tennis Data Visualization for Sportsbetters 
 
 ### Background
-A 1-2 paragraph description of your project, providing the necessary context for someone unfamiliar with your project to understand what it does.
 
-### Functionality & MVPs
+Gamblers who bet on tennis matches may have dozens of daily matches to evaluate when choosing their positions. Because of the unique draw system, and the nature of the game itself, which pits single players against each other, professional tennis offers an opportunity for sportsbetters looking for a narrow risk profile. 
 
+The reality is that most tennis matches are won by the player who is favored to win. These matches, although fairly predictable offer very low return for the risk taken on by the better. A highly ranked player who is playing a very low ranked player may have -1000 odds, which return only 10% on the bet. 
+
+The ideal matches to bet are not just matches whose outcome the better can predict, but matches in which the underdog(the lower-ranked player or player least favorite by the bookmakers) has a higher likelihood to win. A lower-ranker player may have, for instance, +1000 odds to win (and payout 10x the risk), even though dedicated fans can see they are rapidly rising in the ranks and are more likely to outperform the expections of the bookmakers. These matches are where Hot Nets are born.
+
+Hot Nets will provide a novel set of tools for sportsbetting on tennis. 
 
 Via HotNets, users will be able to:
 
@@ -15,24 +19,48 @@ Via HotNets, users will be able to:
 * Sort live matches by "hotness," i.e. favorable risk opportunites.
 * Visualize matches by point-to-point refreshed every 60 seconds.
 
+### Functionality & MVPs
+
+* Live Scores
+* Live and Upcoming Matches
+* Single Player Data
+* Head 2 Head Player Comparisons
+* Point by Point Match Visualizations
+
 
 ### Wireframes
-Draw the layout of your project: the major sections of the game view, the chart and its legend, the game controls and about me links, etc. This doesn't have to be a fully detailed mockup; it can just be labeled boxes showing the layout of your project. See the Sample Proposal for an example.
-
-Wireframe.cc is a great tool for quickly creating wireframes.
+#### Hot Nets Home Page
+![Hot Nets Home Page](wireframes/1-Homepage.png)
+#### Single Match Page
+![Single Match Page](wireframes/2-Single-Match-Page.png)
+#### Single Player Page
+![Single Player Page](wireframes/3-Single-Player-Page.png)
 
 ### Technologies, Libraries, APIs
-What technologies, libraries, and APIs will your project use? If you're building a game, you might use native browser technology like the Canvas API, or you might use a library like three.js. If you're doing data visualization, you might use d3 for rendering charts, and an API to fetch data.
-
-If you're still deciding between a few different libraries or APIs, you can list the ones you're considering, and the potential benefits and drawbacks of each.
-
-If your project needs a backend (see below), list that here as well.
+*APIs for Tennis Data*
+* Tennis Data Live 
+* SportRadar
+* GoalServe
+*Libraries*
+* D3 or Chart.js
 
 ### Implementation Timeline
 Here you will detail what you hope to get done each day for this project. It serves as a roadmap for the upcoming week. You'll have the following days to work on this project:
 
-Friday Afternoon & Weekend
-Monday
-Tuesday
-Wednesday
-Thursday Morning
+#### Friday Afternoon & Weekend
+* Select and connect data feeds for live scores, live and upcoming matches
+* Create 3 HTML pages with placeholder data 
+#### Monday
+* Chart odds data
+* Single match page functionality
+#### Tuesday
+* Head 2 Head data, layout in HTML
+* Single tournament pages, all tournaments page
+#### Wednesday
+* Live Point by point match visualization
+#### Thursday Morning
+* Single player page
+
+### Bonus
+* Tennis news feeds
+* Twitter and instagram links for single player pages
