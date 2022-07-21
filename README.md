@@ -9,11 +9,11 @@ A 1-2 paragraph description of your project, providing the necessary context for
 
 Via HotNets, users will be able to:
 
-*Compare players stats for live and upcoming tennis matches.
-*View scores and stats for live games.
-*Track betting odds during the day leading up to the match time and trends in odds during live match play.
-*Sort live matches by "hotness," i.e. favorable risk opportunites.
-*Visualize matches by point-to-point refreshed every 60 seconds.
+* Compare players stats for live and upcoming tennis matches.
+* View scores and stats for live games.
+* Track betting odds during the day leading up to the match time and trends in odds during live match play.
+* Sort live matches by "hotness," i.e. favorable risk opportunites.
+* Visualize matches by point-to-point refreshed every 60 seconds.
 
 
 ### Wireframes
