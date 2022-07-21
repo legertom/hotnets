@@ -38,9 +38,9 @@ Via HotNets, users will be able to:
 
 ### Technologies, Libraries, APIs
 *APIs for Tennis Data*
-* Tennis Data Live 
-* SportRadar
-* GoalServe
+* Tennis Data Live https://rapidapi.com/sportcontentapi/api/tennis-live-data/
+* SportRadar https://developer.sportradar.com/docs/read/tennis/Tennis_v3
+* GoalServe https://goalserve.com/en/sport-data-feeds/tennis-api/description
 *Libraries*
 * D3 or Chart.js
 
