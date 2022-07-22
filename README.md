@@ -6,19 +6,19 @@ Hosted at: https://hotnets.herokuapp.com/
 
 Gamblers who bet on tennis matches may have dozens of daily matches to evaluate when choosing their positions. Because of the unique draw system, and the nature of the game itself, which pits single players against each other, professional tennis offers an opportunity for sportsbetters looking for a narrow risk profile. 
 
-The reality is that most tennis matches are won by the player who is favored to win. These matches, although fairly predictable offer very low return for the risk taken on by the better. A highly ranked player who is playing a very low ranked player may have -1000 odds, which return only 10% on the bet. 
+The reality is that most tennis matches are won by the player who is widely favored to win. Although fairly predictable, these matches offer very low return for the risk taken on by the better. For example, a highly-ranked player who is playing a very low ranked player may have -1000 odds, returning only 10% on the bet. Even the winningest hitter, Rafael Nadal, has a 83% win percentage, meaning that he still loses nearly 20% of his matches, despite being the favored player in almost every match. This means that a better has (on average) a 20% chance of losing their entire bet, and an 80% chance of making a small percentage return. Nadal is a low-risk, low reward player.
 
-The ideal matches to bet are not just matches whose outcome the better can predict, but matches in which the underdog(the lower-ranked player or player least favorite by the bookmakers) has a higher likelihood to win. A lower-ranker player may have, for instance, +1000 odds to win (and payout 10x the risk), even though dedicated fans can see they are rapidly rising in the ranks and are more likely to outperform the expections of the bookmakers. These matches are where Hot Nets are born.
+The ideal matches to bet are not just matches whose outcome the better can (somewhat) safely predict, but matches in which the underdog(the lower-ranked player or player least favorite by the bookmakers) has a higher likelihood to win. A lower-ranker player may have, for instance, +1000 odds to win (and payout 10x the risk), even though dedicated fans can see they are rapidly rising in the ranks and are more likely to outperform the expections of the bookmakers. These matches are where Hot Nets are born.
 
 Hot Nets will provide a novel set of tools for sportsbetting on tennis. 
 
 Via HotNets, users will be able to:
 
 * Compare players stats for live and upcoming tennis matches.
-* View scores and stats for live games.
+* View scores and stats for live games (refreshed every 5 seconds).
 * Track betting odds during the day leading up to the match time and trends in odds during live match play.
 * Sort live matches by "hotness," i.e. favorable risk opportunites.
-* Visualize matches by point-to-point refreshed every 60 seconds.
+* Visualize matches by point-to-point (refreshed every 60 seconds).
 
 ### Functionality & MVPs
 
