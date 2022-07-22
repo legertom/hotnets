@@ -1,5 +1,5 @@
 # HotNets
-Hosted at: https://legertom.github.io/hotnets/
+Hosted at: https://hotnets.herokuapp.com/
 ## Tennis Data Visualization for Sportsbetters 
 
 ### Background
