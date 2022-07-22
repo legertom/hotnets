@@ -52,6 +52,13 @@ Here's an entirely overly ambitious development schedule.
 #### Friday Afternoon & Weekend
 * Select and connect data feeds for live scores, live and upcoming matches
 * Create 3 HTML pages with placeholder data 
+1. Display upcoming match schedule loop
+  1. Tournament name
+  2. Home & Away Player Name
+  3. Location
+  4. Time of mach local to the user
+2. IF match is live, integrate / display live score 
+  1. AJAX request to update every 5 seconds    
 #### Monday
 * Chart odds data
 * Single match page functionality
