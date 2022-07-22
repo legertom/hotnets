@@ -56,7 +56,7 @@ Here's an entirely overly ambitious development schedule.
   1. Tournament name
   2. Home & Away Player Name
   3. Location
-  4. Time of mach local to the user
+  4. Time of match local to the user
 2. IF match is live, integrate / display live score 
   1. AJAX request to update every 5 seconds    
 #### Monday
