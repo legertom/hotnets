@@ -47,7 +47,7 @@ Via HotNets, users will be able to:
 * D3 or Chart.js
 
 ### Implementation Timeline
-Here you will detail what you hope to get done each day for this project. It serves as a roadmap for the upcoming week. You'll have the following days to work on this project:
+Here's an entirely overly ambitious development schedule.
 
 #### Friday Afternoon & Weekend
 * Select and connect data feeds for live scores, live and upcoming matches
