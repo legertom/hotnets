@@ -1,6 +1,6 @@
 # HotNets
 
-Hosted at: https://hotnets.herokuapp.com/
+Hosted at: http://hotnets.herokuapp.com/
 
 ## Tennis Data Visualization for Sportsbetters
 
