@@ -52,7 +52,7 @@ The user can select either the ATP or the WTA and the chart will automatically a
 ![chart script example](code_example_chart_script_js.png)
 
 ** Acesses live score data every five seconds, santize and filter output to fit our requirements. 
-![tennis data script example](tennis_data_script.png)
+![tennis data script example](tennisdata_script.png)
 
 ### Implementation Timeline
 
