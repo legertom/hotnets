@@ -16,7 +16,7 @@ Hot Nets will provide a novel set of tools for sportsbetting on tennis.
 
 Via HotNets, users will be able to:
 
-- Compare players sranks for live, finished and upcoming tennis matches.
+- Compare players' ranks for live, finished and upcoming tennis matches.
 - View scores and stats for live and finished matches.
 - Explore live ranking data for top 50 players, including movement (up, down, same indicators)
 - Follow live scores via feed automatically updated every 5 seconds.
