@@ -51,7 +51,7 @@ _Libraries_
 The user can select either the ATP or the WTA and the chart will automatically adjust the graph scale. The data for both leagues arrives in seperate JSON objects via two different APIs.
 ![chart script example](code_example_chart_script_js.png)
 
-** Acesses live score data every five seconds, santize and filter output to fit our requirements. 
+**Download and display live score data every five seconds. This involves santizing and filtering output to fit our requirements.**
 ![tennis data script example](tennisdata_script.png)
 
 ### Implementation Timeline
