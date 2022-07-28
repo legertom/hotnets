@@ -33,7 +33,7 @@ Via HotNets, users will be able to:
 
 #### Hot Nets Home Page
 
-![Hot Nets Single Page](wireframes/Homepage.png)
+![Hot Nets Single Page](/wireframes/Homepage.png)
 
 ### Technologies, Libraries, APIs
 
