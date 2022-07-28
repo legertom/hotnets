@@ -49,7 +49,7 @@ _Libraries_
 
 **Dynamic chart displaying ranks for both ATP and WTA leagues**
 The user can select either the ATP or the WTA and the chart will automatically adjust the graph scale.
-(code_example_chart_script_js.png)
+![chart script example](code_example_chart_script_js.png)
 
 ### Implementation Timeline
 
