@@ -45,6 +45,12 @@ _Libraries_
 
 - D3 Library for Bar Char Rankings Visualization
 
+### Code Examples
+
+**Dynamic chart displaying ranks for both ATP and WTA leagues**
+The user can select either the ATP or the WTA and the chart will automatically adjust the graph scale.
+(code_example_chart_script_js.png)
+
 ### Implementation Timeline
 
 #### Friday Afternoon & Weekend
